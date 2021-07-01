@@ -1,9 +1,17 @@
 ---
-layout: post
-title:  "dos xerospoit"
-date:   2019-08-22 21:07:19
-categories: [All, SystemHacking, DoS]
+title: DoS xerospoit
+author: JOSEOYEON
+date: 2021-07-01 19:52:12
+categories: [SystemHacking, DoS]
+tags: [SystemHacking]
+math: true
+mermaid: true
+image:
+  src: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/devices-mockup.png
+  width: 850
+  height: 585
 ---
+
 
 
 # xerosploit

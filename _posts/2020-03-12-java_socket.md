@@ -1,9 +1,18 @@
 ---
-layout: post
-title:  "Java Socket Program"
-date:   2020-03-10 16:42:17
-categories: [Network, All]
+title: Java Socket Program
+author: JOSEYEON
+date: 2021-07-01 19:53:38
+categories: [Network, Java]
+tags: [Network]
+math: true
+mermaid: true
+image:
+  src: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/devices-mockup.png
+  width: 850
+  height: 585
 ---
+
+
 
 **1. vscode 상에서 java 를 구동 할 수 있도록 java 확장 팩을 설치합니다**
 

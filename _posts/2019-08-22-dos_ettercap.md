@@ -1,9 +1,18 @@
 ---
-layout: post
-title:  "Dos Ettercap"
-date:   2019-08-22 21:05:15
-categories: [All, SystemHacking, DoS]
+title: Dos Ettercap
+author: JOSEOYEON
+date: 2021-07-01 19:50:32
+categories: [SystemHacking, DoS]
+tags: [DoS]
+math: true
+mermaid: true
+image:
+  src: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/devices-mockup.png
+  width: 850
+  height: 585
 ---
+
+
 # 1. DOS 공격이란
 DoS(Denial of Service attack) : **서비스 거부 공격, 해당 시스템의 리소스를 점유하거나 자원을 부족하게 만들어 정상적으로 사용하지 못하게 하는 공격.** 입니다.
 

@@ -1,8 +1,15 @@
 ---
-layout: post
-title:  "What does Artifact mean?"
-date:   2020-03-10 17:09:44
-categories: [others,All,Forensic]
+title: What does Artifact mean?
+author: JOSEOYEON
+date: 2021-07-01 19:53:10
+categories: [Forensic, Artifact]
+tags: [Forensic]
+math: true
+mermaid: true
+image:
+  src: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/devices-mockup.png
+  width: 850
+  height: 585
 ---
 
 ## 아티팩트란 무엇인가?
