@@ -4,16 +4,15 @@ icon: fas fa-info
 order: 4
 ---
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
-> UPDATE : 2021 04 21
+> **UPDATE**: 2021 04 21
 
 ## 소속 
 
-2020.07 ~ 2021.03 [KITRI BOB] 차세대 보안리더 양성 프로그램 BoB(Best of Best) 9기 디지털 포렌식 트랙 <br/>
-2019.05 ~ 2019.11 [WISET] 취업탐색 멘토링 <br/>
-2018.11 ~ 2021.03 [서울과학기술대학교] 융합보안연구회(CSS) 동아리 <br/>
-2018.06 ~ 2021.03 [서울과학기술대학교] 보안 연구실(CIS) <br/>
-2017.03 ~ 2021.08 [서울과학기술대학교] 컴퓨터 공학과 <br/>
+**2020.07 ~ 2021.03** [KITRI BOB] 차세대 보안리더 양성 프로그램 BoB(Best of Best) 9기 디지털 포렌식 트랙 <br/>
+**2019.05 ~ 2019.11** [WISET] 취업탐색 멘토링 <br/>
+**2018.11 ~ 2021.03** [서울과학기술대학교] 융합보안연구회(CSS) 동아리 <br/>
+**2018.06 ~ 2021.03** [서울과학기술대학교] 보안 연구실(CIS) <br/>
+**2017.03 ~ 2021.08** [서울과학기술대학교] 컴퓨터 공학과 <br/>
 
 email : joseoyeon@seoultech.ac.kr
 
