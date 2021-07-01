@@ -1,9 +1,12 @@
 ---
-layout: post
-title:  "VirtualBox 6.0.0 exploit"
-date:   2020-04-01 23:03:27
-categories: [All, Security,SystemHacking]
+title: VirtualBox 6.0.0 exploit
+author: JOSEOYEON
+date: 2020-04-01 23:03:27
+categories: [SystemHacking, Security]
+tags: [SystemHacking]
+pin: true
 ---
+
 
 
 # virtual machine(guest)을 공격해서 host Computer의 계산기 call
