@@ -1,8 +1,9 @@
 ---
-layout: post
 title:  "Dynamic Programming - 안경잡이 개발자"
+author: JOSEOYEON
 date:   2021-06-17 10:16:54
-categories: [All, others, Algorithm]
+categories: [Algorithm, study]
+tags: [Algorithm]
 ---
 
 **[1]** 다이나믹 프로그래밍 타일링 문제 풀어보기
