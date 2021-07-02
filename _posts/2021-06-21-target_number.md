@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Target Number"
+title:  Target Number
+author: JOSEOYEON
 date:   2021-06-21 17:10:16
-categories: [All, others, Algorithm]
+categories: [Algorithm]
+tags: [Algorithm]
 ---
 
 ### **[1]** [프로그래머스타겟 넘버]
