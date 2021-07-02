@@ -17,7 +17,7 @@ timezone:  Asia/Seoul
 # --------------------------
 title: JOSEOYEON                          # the main title
 
-tagline: Forensic Anaysis   # it will display as the sub-title
+tagline: ...   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Forensic Anaysis  
