@@ -4,6 +4,8 @@ icon: fas fa-info
 order: 4
 ---
 
+<!--
+
 > **UPDATE**: 2021 04 21
 
 ## 소속 
@@ -33,11 +35,13 @@ email : joseoyeon@seoultech.ac.kr
 <br/>
 -->
 
+<!--
 **2019.10.18** [정보보호학회] 한남대학교 동계학술대회 1건 투고
 <!--```스마트 팩토리 환경의 산업용 통신 프로토콜 보안 요구사항 분석``` 논문 투고
 <br/>
 -->
 
+<!--
 **2019.05.10** [정보처리학회]  숭실대학교 춘계학술발표대회 1건 투고
 
 <!--
@@ -45,6 +49,7 @@ email : joseoyeon@seoultech.ac.kr
 -->
 ---
 
+<!--
 ### 수상 
 
 **2021.03.26** [KITRI BOB] 차세대 보안리더 양성 프로그램 BoB(Best of the Best) 9기 Best10 인증서 - 과학기술정보통신부 장관증서
@@ -59,6 +64,7 @@ email : joseoyeon@seoultech.ac.kr
 -->
 ---
 
+<!--
 ### 프로젝트 
 
 **2020.09.01**  [BoB 9기 우수 프로젝트 선정] 불법 유통 영상 추적 프로그램 제작 프로젝트 
@@ -82,6 +88,8 @@ email : joseoyeon@seoultech.ac.kr
 [악성코드 분석을 위한 메모리 포렌식 (memory forensic) - 인프런](https://www.inflearn.com/course/%EB%A9%94%EB%AA%A8%EB%A6%AC-%ED%8F%AC%EB%A0%8C%EC%8B%9D-memory-forensic#)
 <br/>
 -->
+
+<!--
 **2019.08 ~ 2019.10** 
 ```E.사이버보안.1-Enterprise Security Fundamentals(초급) 수료```
 <br/>
@@ -116,8 +124,6 @@ email : joseoyeon@seoultech.ac.kr
 
 ### [기사]
 **2021.03.29** [BoB 9기 인증식 개최… BEST 10 및 그랑프리팀 시상](https://www.dailysecu.com/news/articleView.html?idxno=122508) <br/>
-
-<!--
 
 
 ### 학교 수업 프로젝트
