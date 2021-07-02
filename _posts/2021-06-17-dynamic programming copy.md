@@ -2,7 +2,7 @@
 title:  "Dynamic Programming - 안경잡이 개발자"
 author: JOSEOYEON
 date:   2021-06-17 10:16:54
-categories: [Algorithm, study]
+categories: [Algorithm, Algorithm]
 tags: [Algorithm]
 ---
 
