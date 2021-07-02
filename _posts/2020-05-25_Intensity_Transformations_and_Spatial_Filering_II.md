@@ -2,7 +2,8 @@
 layout: post
 title:  "08 주차 Intensity Transformations and Spatial Filering II"
 date:   2020-05-25 11:27:39
-categories: [ImageProcessing,study]
+categories: [ImageProcessing,ImageProcessing]
+tags: [ImageProcessing]
 ---
 
 # Histogram Processing
