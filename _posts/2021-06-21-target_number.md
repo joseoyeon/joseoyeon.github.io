@@ -2,7 +2,7 @@
 title:  Target Number
 author: JOSEOYEON
 date:   2021-06-21 17:10:16
-categories: [Algorithm]
+categories: [Algorithm,study]
 tags: [Algorithm]
 ---
 
