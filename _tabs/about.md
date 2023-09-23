@@ -11,7 +11,7 @@ email : joseoyeon60@gmail.com
 ## 학력  
 
 **2022.03 ~ 현재** [고려대학교 정보보호대학원] 정보보호학과 <br/><!--디지털 포렌식 연구실 <br/>-->
-<!--**2021.08 ~ 2021.09** [농협은행] 보안대응팀 인턴 <br/> 
+<!--**2021.08 ~ 2021.09** [농협은행] 보안대응팀 인턴 <br/> -->
 **2020.07 ~ 2021.03** [KITRI BOB] 차세대 보안리더 양성 프로그램 BoB(Best of Best) 9기 디지털 포렌식 트랙 <br/>
 **2018.05 ~ 2021.03** [서울과학기술대학교] CIS 연구실 학부 연구생<br/>
 **2018.11 ~ 2021.03** [서울과학기술대학교] 융합보안연구회(CSS) 동아리 <br/>-->
@@ -57,6 +57,8 @@ email : joseoyeon60@gmail.com
 
 ### 프로젝트 
 
+**2023.04~** 휘발성 데이터 중심의 사용자 행위 연관 데이터 획득 및 분석기법 연구
+
 **2022.04~** Development of digital evidence analysis technique using artificial intelligence technology <br/>
 Keywords: AI forensics, Reference data sets, Deep learning, Document clustering, Tracking file origin, Document similarity measure
 
@@ -66,7 +68,6 @@ Keywords: Live forensics, Online data collection, Messenging service, Cloud stor
 **2021.08~09** [농협은행] 빅데이터 분석을 활용한 정보보안 위협 분석 및 인공지능 보안 관제 모델 설계 
 <br/>
 
-<!--
 **2020.09~11** [서울과학기술대학교]  <Silver Eyes App(노인을 위한 앱 개발) [References](https://itm.seoultech.ac.kr/bachelor_of_information/notice/?do=commonview&searchtext=&searchtype=&nowpage=1&bnum=1947&bidx=498302&cate=&profboardidx=) <br/> 
 
 **2020.09.01**  [BoB 9기 우수 프로젝트 선정] 불법 유통 영상 추적 프로그램 제작 프로젝트
