@@ -11,7 +11,7 @@ email : joseoyeon60@gmail.com
 ## 학력  
 
 **2022.03 ~ 현재** [고려대학교 정보보호대학원] 정보보호학과 <br/><!--디지털 포렌식 연구실 <br/>-->
-<!--**2021.08 ~ 2021.09** [농협은행] 보안대응팀 인턴 <br/> -->
+<!--**2021.08 ~ 2021.09** [농협은행] 보안대응팀 인턴 <br/> 
 **2020.07 ~ 2021.03** [KITRI BOB] 차세대 보안리더 양성 프로그램 BoB(Best of Best) 9기 디지털 포렌식 트랙 <br/>
 **2018.05 ~ 2021.03** [서울과학기술대학교] CIS 연구실 학부 연구생<br/>
 **2018.11 ~ 2021.03** [서울과학기술대학교] 융합보안연구회(CSS) 동아리 <br/>-->
@@ -74,7 +74,6 @@ Keywords: Live forensics, Online data collection, Messenging service, Cloud stor
 
 [BoB_9_인증식_우수 프로젝트 판넬_포맷.pdf](https://github.com/joseoyeon/joseoyeon.github.io/files/6369676/BoB_9_._._.pdf)
 
--->
 
 ---
 
