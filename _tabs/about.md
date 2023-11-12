@@ -74,8 +74,6 @@ Keywords: Live forensics, Online data collection, Messenging service, Cloud stor
 
 **2020.09.01**  [BoB 9기 우수 프로젝트 선정] 불법 유통 영상 추적 프로그램 제작 프로젝트
 
-[BoB_9_인증식_우수 프로젝트 판넬_포맷.pdf](https://github.com/joseoyeon/joseoyeon.github.io/files/6369676/BoB_9_._._.pdf)
-
 
 ---
 
@@ -83,15 +81,15 @@ Keywords: Live forensics, Online data collection, Messenging service, Cloud stor
 
 #### 공모전 참여
 
-**2022.12** [AI-Chellange] 네트워크 공격 트랙 <!--[정리내용](https://github.com/joseoyeon/AI-Chellange)--><br/>
+**2022.12** [AI-Chellange] 네트워크 공격 트랙 [정리내용](https://github.com/joseoyeon/AI-Chellange)<br/>
 
-**2022.12** [KDFS 챌린지 2022] 하이브렌섬웨어 포렌식 분석 <!--[정리내용](https://github.com/joseoyeon/2022-KDFS-Challenge)<br/>-->
+**2022.12** [KDFS 챌린지 2022] 하이브렌섬웨어 포렌식 분석 [정리내용](https://github.com/joseoyeon/2022-KDFS-Challenge)<br/>
 
 
 <!-- **2021.10** [KDFS 챌린지 2021] 모바일 포렌식 분석 [정리내용](https://joseoyeon.github.io/posts/%EB%AA%A8%EB%B0%94%EC%9D%BC%ED%8F%AC%EB%A0%8C%EC%8B%9D/)<br/>
 -->
 
-<!--
+
 #### 개인 
 
 *  [BoB 9기 우수 프로젝트 선정] 불법 유통 영상 추적 프로그램 제작 프로젝트
@@ -102,9 +100,9 @@ Keywords: Live forensics, Online data collection, Messenging service, Cloud stor
 - 미디어 유사도 측정 실험 리서치 팀
 - 불법 미디어 신고 웹사이트 제작 
 <br/>
--->
+
 ---
-<!--
+
 ### 스터디 
 
 **2022.01.03 ~ 2022.01.14** [삼성 SDS] 동계 알고리즘 특강 <br/>
@@ -112,27 +110,25 @@ Keywords: Live forensics, Online data collection, Messenging service, Cloud stor
 **2021.06.21 ~ 2021.11.05** [인터넷진흥원] AI보안 기술개발 교육 수료 
 
 <br/>
--->
-<!--
+
+
 **2020.05~07**
  ```메모리 포렌식 공부```
 [악성코드 분석을 위한 메모리 포렌식 (memory forensic) - 인프런](https://www.inflearn.com/course/%EB%A9%94%EB%AA%A8%EB%A6%AC-%ED%8F%AC%EB%A0%8C%EC%8B%9D-memory-forensic#)
 <br/>
--->
-<!--
+
 **2019.08 ~ 2019.10** 
 ```E.사이버보안.1-Enterprise Security Fundamentals(초급) 수료```
 <br/>
 -->
 
-<!--
+
 **2019.08**   ```DOS 공격 실습```
 [Github](https://github.com/joseoyeon/systemhacking/blob/master/Dos/20190819_ping_of_death.md)
 <br/>
 
 **2019.06**  ```GIT 블로그 만들기``` joseoyeon.github.io 
 <br/>
-
 
 **2018.06** 
  ```암호 스터디```
