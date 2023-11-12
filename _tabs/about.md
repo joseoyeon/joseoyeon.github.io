@@ -77,8 +77,6 @@ Keywords: Live forensics, Online data collection, Messenging service, Cloud stor
 
 ---
 
-<br/>
-
 #### 공모전 참여
 
 **2022.12** [AI-Chellange] 네트워크 공격 트랙 [정리내용](https://github.com/joseoyeon/AI-Chellange)<br/>
