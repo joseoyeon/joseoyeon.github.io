@@ -10,14 +10,13 @@ email : joseoyeon60@gmail.com
 
 ## 학력  
 
-**2022.03 ~ 현재** [고려대학교 정보보호대학원] 정보보호학과 <br/>
-<!--디지털 포렌식 연구실 <br/>-->
-**2021.08 ~ 2021.09** [농협은행] 보안대응팀 인턴 <br/> 
-**2020.07 ~ 2021.03** [KITRI BOB] 차세대 보안리더 양성 프로그램 BoB(Best of Best) 9기 디지털 포렌식 트랙 <br/>
+**2017.03 ~ 2021.08** [서울과학기술대학교] 컴퓨터 공학과 <br/>
 <!--**2018.05 ~ 2021.03** [서울과학기술대학교] CIS 연구실 학부 연구생<br/>
 **2018.11 ~ 2021.03** [서울과학기술대학교] 융합보안연구회(CSS) 동아리 <br/>-->
-**2017.03 ~ 2021.08** [서울과학기술대학교] 컴퓨터 공학과 <br/>
-
+**2020.07 ~ 2021.03** [KITRI BOB] 차세대 보안리더 양성 프로그램 BoB(Best of Best) 9기 디지털 포렌식 트랙 <br/>
+**2021.08 ~ 2021.09** [농협은행] 보안대응팀 인턴 <br/> 
+**2022.03 ~ 현재** [고려대학교 정보보호대학원] 정보보호학과 <br/>
+<!--디지털 포렌식 연구실 <br/>-->
 ---
 
 
@@ -81,7 +80,7 @@ Keywords: ```Live forensics```, ```Online data collection```, ```Messenging serv
 
 #### 개인 
 
-*  [BoB 9기 우수 프로젝트 선정] 불법 유통 영상 추적 프로그램 제작 프로젝트<br/>
+[BoB 9기 우수 프로젝트 선정] 불법 유통 영상 추적 프로그램 제작 프로젝트<br/>
  [산출물 정리](https://pusanackr-my.sharepoint.com/personal/bluemonster_pusan_ac_kr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fbluemonster%5Fpusan%5Fac%5Fkr%2FDocuments%2F%EB%8B%A4%EC%9E%A1%EC%A1%B0%20%EC%82%B0%EC%B6%9C%EB%AC%BC&originalPath=aHR0cHM6Ly9wdXNhbmFja3ItbXkuc2hhcmVwb2ludC5jb20vOmY6L2cvcGVyc29uYWwvYmx1ZW1vbnN0ZXJfcHVzYW5fYWNfa3IvRWlSYlRkY0NCMmxKa3dpNFRTRUd0b3NCVUg4elhWWEVuZmRfVHpzSEVRYUo4dz9ydGltZT12T2dEMXctbDJFZw)<br/>
 - [노션 정리](https://www.notion.so/JSY-526a402c71e4436ea52ee923498e4b68)
 - 불법 미디어 유통 수사. 
