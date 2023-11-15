@@ -45,7 +45,7 @@ email : joseoyeon60@gmail.com
 
 **2022.12.05**  [디지털 포렌식 학회] 동계학술대회 [KCI 등재] 17권 1호 논문지 <br/>
 ```외형적 특징을 활용한 문서 작성 집단 분류 방법```   
-**2020.11.20**  [디지털 포렌식 학회] 동계학술대회 1건 투고<br/>
+**2020.11.20**  [디지털 포렌식 학회] 동계학술대회 1건 투고<br/>  
 <!-- ```불법 영상 유통 추적을 위한 법률적 근거 개선 사항```  논문 투고 <br/> -->
 **2020.07.15** [정보보호학회] 하계 학술대회 1건 투고<br/>
 <!-- ``` SCADA 시스템 대상 랜섬웨어 최신 동향 분석``` <br/> -->
@@ -116,6 +116,6 @@ Keywords: ```Live forensics```, ```Online data collection```, ```Messenging serv
 ### [기사]
 
 
-**2022.12.01** [사이버보안 AI·빅데이터 챌린지 2022’ 시상식 및 성과 공유회 개최](https://www.boannews.com/media/view.asp?idx=112153) 
+**2022.12.01** [사이버보안 AI·빅데이터 챌린지 2022’ 시상식 및 성과 공유회 개최](https://www.boannews.com/media/view.asp?idx=112153) <br/>
 **2021.03.29** [BoB 9기 인증식 개최… BEST 10 및 그랑프리팀 시상](https://www.dailysecu.com/news/articleView.html?idxno=122508) 
 
