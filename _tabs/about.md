@@ -97,7 +97,7 @@ Keywords: ```Live forensics```, ```Online data collection```, ```Messenging serv
  ```메모리 포렌식 공부```
 [악성코드 분석을 위한 메모리 포렌식 (memory forensic) - 인프런](https://www.inflearn.com/course/%EB%A9%94%EB%AA%A8%EB%A6%AC-%ED%8F%AC%EB%A0%8C%EC%8B%9D-memory-forensic#) <br/>
 **2019.08 ~ 2019.10** 
-```E.사이버보안.1-Enterprise Security Fundamentals(초급) 수료```
+```E.사이버보안.1-Enterprise Security Fundamentals(초급) 수료```<br/>
 **2019.08**   ```DOS 공격 실습```
 [Github](https://github.com/joseoyeon/systemhacking/blob/master/Dos/20190819_ping_of_death.md) <br/>
 **2019.06**  ```GIT 블로그 만들기``` joseoyeon.github.io <br/>
