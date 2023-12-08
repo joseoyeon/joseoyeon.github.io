@@ -58,7 +58,7 @@ email : joseoyeon60@gmail.com
 
 ### 프로젝트 
 
-**2023.04~** 휘발성 데이터 중심의 사용자 행위 연관 데이터 획득 및 분석기법 연구 <br/>
+<!--**2023.04~** 휘발성 데이터 중심의 사용자 행위 연관 데이터 획득 및 분석기법 연구 <br/>-->
 **2022.04~** Development of digital evidence analysis technique using artificial intelligence technology  <br/>
 Keywords: ```AI forensics```, ```Reference data sets```, ```Deep learning```, ```Document clustering```, ```Tracking file origin```, ```Document similarity measure``` <br/>
 **2022.03~** [Police-Lab 2.0] Research on Data Acquisition and Analysis for Counter Anti-Forensics  <br/>
@@ -93,11 +93,11 @@ Keywords: ```Live forensics```, ```Online data collection```, ```Messenging serv
 
 **2022.01.03 ~ 2022.01.14** [삼성 SDS] 동계 알고리즘 특강 <br/>
 **2021.06.21 ~ 2021.11.05** [인터넷진흥원] AI보안 기술개발 교육 수료  <br/>
-**2020.05~07**
+<!--**2020.05~07**
  ```메모리 포렌식 공부```
 [악성코드 분석을 위한 메모리 포렌식 (memory forensic) - 인프런](https://www.inflearn.com/course/%EB%A9%94%EB%AA%A8%EB%A6%AC-%ED%8F%AC%EB%A0%8C%EC%8B%9D-memory-forensic#) <br/>
 **2019.08 ~ 2019.10** 
-```E.사이버보안.1-Enterprise Security Fundamentals(초급) 수료```<br/>
+```E.사이버보안.1-Enterprise Security Fundamentals(초급) 수료```<br/>-->
 **2019.08**   ```DOS 공격 실습```
 [Github](https://github.com/joseoyeon/systemhacking/blob/master/Dos/20190819_ping_of_death.md) <br/>
 **2019.06**  ```GIT 블로그 만들기``` joseoyeon.github.io <br/>
