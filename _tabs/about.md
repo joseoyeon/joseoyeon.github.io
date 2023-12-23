@@ -22,7 +22,7 @@ email : joseoyeon60@gmail.com
 ### 수상 실적 
 
 **2019.05.10** [정보처리학회] 숭실대학교 정보처리학회 은상 - 정보처리학회장상<br/>
-**2019.11.28** [서울과학기술대학교] 교내 독서 에세이 공모전 우수상 <바깥은 여름: 김애란 소설>
+**2019.11.28** [서울과학기술대학교] 교내 독서 에세이 공모전 우수상 <바깥은 여름: 김애란 소설> <br/>
 **2020.11.24** [서울과학기술대학교] 교내 캡스톤 디자인 우수작 선정 <!--<Silver Eyes App(노인을 위한 앱 개발)>-->  [References](https://itm.seoultech.ac.kr/bachelor_of_information/notice/?do=commonview&searchtext=&searchtype=&nowpage=1&bnum=1947&bidx=498302&cate=&profboardidx=)  <br/>
 **2020.11.19** [서울과학기술대학교] 교내 2020 스타트업 챌린지(창업 아이디어 경진대회) 동상 수상 [References](https://itm.seoultech.ac.kr/bachelor_of_information/notice/?do=commonview&searchtext=&searchtype=&nowpage=1&bnum=1947&bidx=498302&cate=&profboardidx=)  <br/>
 **2021.03.26** [KITRI BOB] 차세대 보안리더 양성 프로그램 BoB(Best of the Best) 9기 Best10 인증서 - 과학기술정보통신부 장관증서 <br/>
