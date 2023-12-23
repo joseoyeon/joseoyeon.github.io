@@ -46,7 +46,7 @@ Keywords: ```AI```,```Deep learning```, ```Web Log```, ```Splunk``` <br/>
 **2022.04~** Development of digital evidence analysis technique using artificial intelligence technology  <br/>
 Keywords: ```AI forensics```, ```Document clustering```, ```Tracking file origin```, ```Document similarity measure``` <br/>
 **2022.03~** [Police-Lab 2.0] Research on Data Acquisition and Analysis for Counter Anti-Forensics  <br/>
-Keywords: ```Online data collection```, ```Dark Web``` <br/>
+Keywords: ```data collection```, ```Dark Web``` <br/>
 **2022.12** [AI-Chellange] 네트워크 공격 트랙 [정리내용](https://github.com/joseoyeon/AI-Chellange) <br/>
 Keywords: ```AI forensics```, ```Deep learning```, ```Web Log``` <br/>
 **2022.12** [KDFS 챌린지 2022] 하이브렌섬웨어 포렌식 분석 [정리내용](https://github.com/joseoyeon/2022-KDFS-Challenge) <br/>
