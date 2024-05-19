@@ -4,7 +4,7 @@ author: JOSEOYEON
 date: 2020-04-01 23:03:27
 categories: [SystemHacking, memory leak]
 tags: [memory leak]
-pin: true
+pin: false
 ---
 
 
