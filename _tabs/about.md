@@ -50,15 +50,15 @@ Keywords: ```Windows forensics```, ```Hive Ransomware``` <br/>
 Keywords: ```Live forensics``` <br/>
 
 
-<!-- [산출물 정리](https://pusanackr-my.sharepoint.com/personal/bluemonster_pusan_ac_kr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fbluemonster%5Fpusan%5Fac%5Fkr%2FDocuments%2F%EB%8B%A4%EC%9E%A1%EC%A1%B0%20%EC%82%B0%EC%B6%9C%EB%AC%BC&originalPath=aHR0cHM6Ly9wdXNhbmFja3ItbXkuc2hhcmVwb2ludC5jb20vOmY6L2cvcGVyc29uYWwvYmx1ZW1vbnN0ZXJfcHVzYW5fYWNfa3IvRWlSYlRkY0NCMmxKa3dpNFRTRUd0b3NCVUg4elhWWEVuZmRfVHpzSEVRYUo4dz9ydGltZT12T2dEMXctbDJFZw)<br/>
+ [산출물 정리](https://pusanackr-my.sharepoint.com/personal/bluemonster_pusan_ac_kr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fbluemonster%5Fpusan%5Fac%5Fkr%2FDocuments%2F%EB%8B%A4%EC%9E%A1%EC%A1%B0%20%EC%82%B0%EC%B6%9C%EB%AC%BC&originalPath=aHR0cHM6Ly9wdXNhbmFja3ItbXkuc2hhcmVwb2ludC5jb20vOmY6L2cvcGVyc29uYWwvYmx1ZW1vbnN0ZXJfcHVzYW5fYWNfa3IvRWlSYlRkY0NCMmxKa3dpNFRTRUd0b3NCVUg4elhWWEVuZmRfVHpzSEVRYUo4dz9ydGltZT12T2dEMXctbDJFZw)<br/>
 - [노션 정리](https://www.notion.so/JSY-526a402c71e4436ea52ee923498e4b68)
 - 불법 미디어 유통 수사. 
 - 미디어 유사도 측정 실험 리서치 팀
-- 불법 미디어 신고 웹사이트 제작 -->
+- 불법 미디어 신고 웹사이트 제작 
 
-<!-- **2021.10** [KDFS 챌린지 2021] 모바일 포렌식 분석 [정리내용](https://joseoyeon.github.io/posts/%EB%AA%A8%EB%B0%94%EC%9D%BC%ED%8F%AC%EB%A0%8C%EC%8B%9D/)<br/>
--->
-<!--**2020.09~11** [서울과학기술대학교]  <Silver Eyes App(노인을 위한 앱 개발) [References](https://itm.seoultech.ac.kr/bachelor_of_information/notice/?do=commonview&searchtext=&searchtype=&nowpage=1&bnum=1947&bidx=498302&cate=&profboardidx=) <br/> -->
+**2021.10** [KDFS 챌린지 2021] 모바일 포렌식 분석 [정리내용](https://joseoyeon.github.io/posts/%EB%AA%A8%EB%B0%94%EC%9D%BC%ED%8F%AC%EB%A0%8C%EC%8B%9D/)<br/>
+
+**2020.09~11** [서울과학기술대학교]  <Silver Eyes App(노인을 위한 앱 개발) [References](https://itm.seoultech.ac.kr/bachelor_of_information/notice/?do=commonview&searchtext=&searchtype=&nowpage=1&bnum=1947&bidx=498302&cate=&profboardidx=) <br/> 
 -->
 
 <!--
@@ -80,7 +80,6 @@ Keywords: ```Live forensics``` <br/>
 [Github](https://github.com/joseoyeon/Cryptography) <br/>
 **2019.05 ~ 2019.11** [WISET] 취업탐색 멘토링<br/> 
 -->
----
 
 ### [기사]
 
