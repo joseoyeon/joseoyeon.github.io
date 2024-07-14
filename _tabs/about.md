@@ -11,29 +11,24 @@ email : joseoyeon60@gmail.com
 ## 학력  
 
 **2017.03 ~ 2021.08** [서울과학기술대학교] 컴퓨터 공학과 <br/>
-**2018.11 ~ 2021.03** [서울과학기술대학교] 융합보안연구회(CSS) 동아리 <br/>
 **2020.07 ~ 2021.03** [KITRI BOB] 차세대 보안리더 양성 프로그램 BoB(Best of Best) 9기 디지털 포렌식 트랙 <br/>
-**2021.08 ~ 2021.09** [농협은행] 보안대응팀 인턴 <br/> 
 **2022.03 ~ -** [고려대학교 정보보호대학원] 정보보호학과 <br/>
 <!--**2018.05 ~ 2021.03** [서울과학기술대학교] CIS 연구실 학부 연구생<br/>-->
 ---
 
-
+<!--
 ### 수상 실적 
 
 **2019.05.10** [정보처리학회] 숭실대학교 정보처리학회 은상 - 정보처리학회장상<br/>
 **2019.11.28** [서울과학기술대학교] 교내 독서 에세이 공모전 우수상 <바깥은 여름: 김애란 소설><br/>
-**2020.11.24** [서울과학기술대학교] 교내 캡스톤 디자인 우수작 선정 <!--<Silver Eyes App(노인을 위한 앱 개발)>-->  [References](https://itm.seoultech.ac.kr/bachelor_of_information/notice/?do=commonview&searchtext=&searchtype=&nowpage=1&bnum=1947&bidx=498302&cate=&profboardidx=)  <br/>
+**2020.11.24** [서울과학기술대학교] 교내 캡스톤 디자인 우수작 선정 <Silver Eyes App(노인을 위한 앱 개발)  [References](https://itm.seoultech.ac.kr/bachelor_of_information/notice/?do=commonview&searchtext=&searchtype=&nowpage=1&bnum=1947&bidx=498302&cate=&profboardidx=)  <br/>
 **2020.11.19** [서울과학기술대학교] 교내 2020 스타트업 챌린지(창업 아이디어 경진대회) 동상 수상 [References](https://itm.seoultech.ac.kr/bachelor_of_information/notice/?do=commonview&searchtext=&searchtype=&nowpage=1&bnum=1947&bidx=498302&cate=&profboardidx=)  <br/>
 **2021.03.26** [KITRI BOB] 차세대 보안리더 양성 프로그램 BoB(Best of the Best) 9기 Best10 인증서 - 과학기술정보통신부 장관증서 <br/>
 **2022.12.01** [한국인터넷진흥원] 사이버보안 AI\*빅데이터 챌린지 2022 네트워크 공격 분류 트랙 최우수상 - 인터넷진흥원장상 <br/>
 **2022.12.05** [한국디지털포렌식학회] 중앙대학교 디지털포렌식학회 우수논문상 - 경찰청장상 <br/>
 **2022.12.05** [한국디지털포렌식학회] KDFS 2022 챌린지 장려상 - 한국디지털포렌식학회장상 <br/>
 **2023.11.17** [한국정보보안학회] DFC Tech Contest 3th - 한국정보보안학회장상 <br/>
-<!--
-```CoAP을 위한 프로토콜 제안 시 DDoS  보안 고려사항```
-<br/>
--->
+```CoAP을 위한 프로토콜 제안 시 DDoS  보안 고려사항```<br/>
 
 ---
 
@@ -64,25 +59,27 @@ Keywords: ```Live forensics``` <br/>
 <!-- **2021.10** [KDFS 챌린지 2021] 모바일 포렌식 분석 [정리내용](https://joseoyeon.github.io/posts/%EB%AA%A8%EB%B0%94%EC%9D%BC%ED%8F%AC%EB%A0%8C%EC%8B%9D/)<br/>
 -->
 <!--**2020.09~11** [서울과학기술대학교]  <Silver Eyes App(노인을 위한 앱 개발) [References](https://itm.seoultech.ac.kr/bachelor_of_information/notice/?do=commonview&searchtext=&searchtype=&nowpage=1&bnum=1947&bidx=498302&cate=&profboardidx=) <br/> -->
----
+-->
+
+<!--
 
 ### 스터디 
 
 **2022.01.03 ~ 2022.01.14** [삼성 SDS] 동계 알고리즘 특강 <br/>
 **2021.06.21 ~ 2021.11.05** [인터넷진흥원] AI보안 기술개발 교육 수료  <br/>
-<!--**2020.05~07**
+**2020.05~07**
  ```메모리 포렌식 공부```
 [악성코드 분석을 위한 메모리 포렌식 (memory forensic) - 인프런](https://www.inflearn.com/course/%EB%A9%94%EB%AA%A8%EB%A6%AC-%ED%8F%AC%EB%A0%8C%EC%8B%9D-memory-forensic#) <br/>
 **2019.08 ~ 2019.10** 
-```E.사이버보안.1-Enterprise Security Fundamentals(초급) 수료```<br/>-->
+```E.사이버보안.1-Enterprise Security Fundamentals(초급) 수료```<br/>
 **2019.08**   ```DOS 공격 실습```
 [Github](https://github.com/joseoyeon/systemhacking/blob/master/Dos/20190819_ping_of_death.md) <br/>
 **2019.06**  ```GIT 블로그 만들기``` joseoyeon.github.io <br/>
 **2018.06** 
  ```암호 스터디```
 [Github](https://github.com/joseoyeon/Cryptography) <br/>
-<!--**2019.05 ~ 2019.11** [WISET] 취업탐색 멘토링<br/> -->
-
+**2019.05 ~ 2019.11** [WISET] 취업탐색 멘토링<br/> 
+-->
 ---
 
 ### [기사]
