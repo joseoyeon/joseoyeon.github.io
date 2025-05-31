@@ -4,8 +4,6 @@ icon: fas fa-info
 order: 4
 ---
 
-> **UPDATE**: 2023 11 17
-
 email : joseoyeon60@gmail.com 
 
 ### 수상 실적 
@@ -75,11 +73,9 @@ Keywords: ```Live forensics``` <br/>
 - 불법 미디어 신고 웹사이트 제작 
 
 **2021.10** [KDFS 챌린지 2021] 모바일 포렌식 분석 [정리내용](https://joseoyeon.github.io/posts/%EB%AA%A8%EB%B0%94%EC%9D%BC%ED%8F%AC%EB%A0%8C%EC%8B%9D/)<br/>
-
 **2020.09~11** [서울과학기술대학교]  <Silver Eyes App(노인을 위한 앱 개발) [References](https://itm.seoultech.ac.kr/bachelor_of_information/notice/?do=commonview&searchtext=&searchtype=&nowpage=1&bnum=1947&bidx=498302&cate=&profboardidx=) <br/> 
--->
 
-<!--
+
 ### 스터디 
 
 **2022.01.03 ~ 2022.01.14** [삼성 SDS] 동계 알고리즘 특강 <br/>
@@ -96,9 +92,7 @@ Keywords: ```Live forensics``` <br/>
  ```암호 스터디```
 [Github](https://github.com/joseoyeon/Cryptography) <br/>
 **2019.05 ~ 2019.11** [WISET] 취업탐색 멘토링<br/> 
--->
 
-<!--
 ### [기사]
 
 **2022.12.01** [사이버보안 AI·빅데이터 챌린지 2022’ 시상식 및 성과 공유회 개최](https://www.boannews.com/media/view.asp?idx=112153) <br/>
